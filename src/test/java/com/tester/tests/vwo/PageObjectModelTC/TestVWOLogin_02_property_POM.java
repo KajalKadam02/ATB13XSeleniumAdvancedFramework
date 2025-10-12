@@ -1,8 +1,8 @@
 package com.tester.tests.vwo.PageObjectModelTC;
 
 import com.tester.Base.CommonToAllTest;
-import com.tester.Pages.PageObjectModel.vwo.DashBoardPage;
-import com.tester.Pages.PageObjectModel.vwo.LoginPage;
+import com.tester.Pages.PageObjectModel.vwo.normal_POM.DashBoardPage;
+import com.tester.Pages.PageObjectModel.vwo.normal_POM.LoginPage;
 import com.tester.Utils.PropertiesReader;
 import com.tester.driver.DriverManager;
 import io.qameta.allure.Description;

@@ -1,7 +1,7 @@
 package com.tester.tests.vwo.PageObjectModelTC;
 
-import com.tester.Pages.PageObjectModel.vwo.DashBoardPage;
-import com.tester.Pages.PageObjectModel.vwo.LoginPage;
+import com.tester.Pages.PageObjectModel.vwo.normal_POM.DashBoardPage;
+import com.tester.Pages.PageObjectModel.vwo.normal_POM.LoginPage;
 import com.tester.Utils.PropertiesReader;
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;

@@ -1,4 +1,4 @@
-package com.tester.Pages.PageObjectModel.vwo;
+package com.tester.Pages.PageObjectModel.vwo.normal_POM;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

@@ -1,4 +1,4 @@
-package com.tester.Pages.PageObjectModel.vwo;
+package com.tester.Pages.PageObjectModel.vwo.normal_POM;
 
 import com.tester.Utils.PropertiesReader;
 import com.tester.Utils.WaitHelpers;

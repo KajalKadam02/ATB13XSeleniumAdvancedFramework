@@ -1,4 +1,4 @@
-package com.tester.Pages.PageObjectModel.vwo;
+package com.tester.Pages.PageObjectModel.vwo.normal_POM;
 
 import com.tester.Utils.WaitHelpers;
 import org.openqa.selenium.By;
@@ -10,6 +10,7 @@ public class DashBoardPage {
 
     public DashBoardPage(WebDriver driver)
     {
+
         this.driver=driver;
     }
 
